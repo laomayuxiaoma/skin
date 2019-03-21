@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Skinable">
+        <!--isSupport=true标识当前控件支持换肤-->
+        <attr name="isSupportSkin" format="boolean" />
+    </declare-styleable>
+</resources>
